@@ -164,6 +164,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-x-terravision/";
+            },},{id: "news-wingle-pass-your-fast-pass-to-premium-travel",
+          title: 'Wingle Pass: Your fast pass to premium travel',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/wingle-pass/";
             },},{id: "publications-networking-at-35-000-feet-turn-flights-into-wins",
           title: 'Networking at 35,000 Feet: Turn Flights into Wins',
           description: "Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers",
