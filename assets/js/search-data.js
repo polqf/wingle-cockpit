@@ -180,6 +180,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/wingle-pass/";
+            },},{id: "news-land-amp-laundry",
+          title: 'Land &amp;amp; Laundry',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/land-and-laundry/";
             },},{id: "publications-networking-at-35-000-feet-turn-flights-into-wins",
           title: 'Networking at 35,000 Feet: Turn Flights into Wins',
           description: "Turn your flight into an opportunity! Discover how to make the most of your time in the air by connecting with fellow travelers",
