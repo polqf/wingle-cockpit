@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/letswingle.com";
           },
-        },{id: "post-episode-9-it-s-in-the-air",
+        },{id: "post-episode-10-you-got-an-upgrade",
+      
+        title: "Episode 10: You got an upgrade",
+      
+      description: "Meet Wingle Pass. Your fast pass to premium travel. Upgrade your travel, hassle-free!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cockpit-episode-10/";
+        
+      },
+    },{id: "post-episode-9-it-s-in-the-air",
       
         title: "Episode 9: It’s in the air",
       
