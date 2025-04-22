@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/letswingle.com";
           },
-        },{id: "post-episode-10-you-got-an-upgrade",
+        },{id: "post-episode-11-new-season",
+      
+        title: "Episode 11: New season",
+      
+      description: "“Retrofiting” Wingle with the goal of making it your “go-to app” for anything related to air travel",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cockpit-episode-11/";
+        
+      },
+    },{id: "post-episode-10-you-got-an-upgrade",
       
         title: "Episode 10: You got an upgrade",
       
